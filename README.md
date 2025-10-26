@@ -68,6 +68,8 @@ Class_session has a 1-1 identifying relationship with class_type; a sports sessi
 USE ns_F25MIST4610_62755_Group5;
 
 ### Simple
+<img width="797" height="610" alt="image" src="https://github.com/user-attachments/assets/a25f7984-6d71-4ce2-814d-4994664e89e2" />
+
 1. List the class types offered.
 
 <img width="627" height="219" alt="image" src="https://github.com/user-attachments/assets/2db468af-b94b-4c65-a3cc-c60749450b1e" />
