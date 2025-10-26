@@ -67,7 +67,6 @@ Class_session has a 1-1 identifying relationship with class_type; a sports sessi
 ## Queries:
 USE ns_F25MIST4610_62755_Group5;
 
-### Simple
 <img width="797" height="610" alt="image" src="https://github.com/user-attachments/assets/a25f7984-6d71-4ce2-814d-4994664e89e2" />
 
 1. List the class types offered.
@@ -94,9 +93,7 @@ From a managerial perspective, this query helps identify which classes are sched
 
 <img width="626" height="312" alt="image" src="https://github.com/user-attachments/assets/7bbb3f2f-d9a0-4c85-8c93-8ceecb0499da" />
 
-This query provides important information about clients who attend a higher number of classes per week. This allows for a manager to 
-
-### Complex
+This query provides important information about clients who attend a higher number of classes per week. This can provide insight on the type of activities that clients might find interesting and help a manager determine any changes to classes that would increase client attendence.
 
 5. List the contact information including name, number, and email of all staff that have the ACE certification.
 
