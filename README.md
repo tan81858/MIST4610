@@ -7,7 +7,7 @@
 1. Armaan Bhasin [@armaanbhasin](https://www.github.com/taralbpatel)
 2. Colby Cannizzaro [@colbycannizzaro](https://github.com/colbycannizzaro/MIST4610GroupProject1)
 3. Evan Liu [@evanliu](https://github.com/evanl0l/4610)
-4. Theresa Nguyen[@theresanguyen](https://www.github.com/RipleyKurtz)
+4. Theresa Nguyen[@theresaanguyen](https://www.github.com/theresaanguyen/MIST4610)
 5. Allison Ramirez Diaz [@allisonramirezdiaz](https://www.github.com/quoysimpson)
 
 ## Scenario Description:
